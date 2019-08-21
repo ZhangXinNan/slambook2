@@ -1,5 +1,5 @@
 
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.5.1)
 
 include_directories("/usr/include/eigen3")
 add_executable(coordinateTransform coordinateTransform.cpp)
