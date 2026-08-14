@@ -19,6 +19,7 @@ find_library(CSPARSE_LIBRARY NAMES cxsparse libcxsparse
   /usr/lib
   /usr/local/lib
   /opt/local/lib
+  /usr/lib/x86_64-linux-gnu
   /sw/lib
   )
 
